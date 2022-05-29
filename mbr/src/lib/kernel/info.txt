@@ -1,0 +1,15 @@
+glabol.h
+init.h
+interrupt.h
+io.h
+print.h
+stdint.h
+
+
+init.c
+interrupt.c
+main.c
+
+
+kernel.s
+print.s
